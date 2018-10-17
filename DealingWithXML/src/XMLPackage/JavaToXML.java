@@ -12,7 +12,7 @@ public class JavaToXML {
 		Employee e1 = new Employee();
 		e1.setId(1001);
 		e1.setName("James");
-		e1.setSalary(35000);
+		e1.setSalary(36000);
 		
 		try
 		{
